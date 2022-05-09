@@ -9,7 +9,7 @@
 3. git add. 
 4. git commit -m "업로드 한다."
 5. git log --oneline: 확인
-6. git remote add origin URL: 원격 저장소 생성
+6. git remote add origin URL: 원격 저장소 연결
 7. git push origin master
 
 
