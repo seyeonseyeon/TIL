@@ -35,6 +35,7 @@
 * touch 파일 이름: 파일 생성
  * ctrl `: terminal 생성
  * ctrl l: 화면 깨끗이
+ * ctrl s: 저장
 
 
 
