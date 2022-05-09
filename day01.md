@@ -10,7 +10,7 @@
 
 ## DAY 1
 
-1. JAVA의 개발환경: IDE(Integereated Development Environment)
+1. JAVA의 개발환경(IDE(Integereated Development Environment)): Eclipse 
 
 
 
