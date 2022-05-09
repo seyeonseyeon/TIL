@@ -1,4 +1,4 @@
-# Day04(git hub특강)
+# DAY04 (git hub특강)
 
 ## 1. GIT: 분산관리시스템
 
