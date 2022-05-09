@@ -23,9 +23,7 @@
 
 
 
-
-![git hub 4](깃허브 Markdown_실습_따라만들기_정답.assets/git hub 4.png)
-
+![git hub 4](https://user-images.githubusercontent.com/103159709/167358079-bc0f6fca-5bbe-4e39-b568-4ea62d34aa5d.png)
 
 
 
@@ -35,10 +33,8 @@
 
 
 
+![git hub 13](https://user-images.githubusercontent.com/103159709/167358166-289f9e35-8ef8-4cab-b5ec-35fd779ec8f5.png)
 
-
-
-![git hub 13](깃허브 Markdown_실습_따라만들기_정답.assets/git hub 13-16520793027871.png)
 
 
 
