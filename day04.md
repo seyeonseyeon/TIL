@@ -14,14 +14,7 @@
 
   
 
-2. *주의사항*
-
-* git init 안에 init하지 않기
-* 상위 폴더 안에 init하지 않기
-* github에서 init하지 않기
-
-
-
+2.
 
 ![git hub 4](https://user-images.githubusercontent.com/103159709/167358079-bc0f6fca-5bbe-4e39-b568-4ea62d34aa5d.png)
 
@@ -38,7 +31,11 @@
 
 
 
+3. *주의사항*
 
+* git init 안에 init하지 않기
+* 상위 폴더 안에 init하지 않기
+* github에서 init하지 않기
 
 
 
