@@ -1,14 +1,14 @@
-# DAY 1
+# DAY1
 
-1. JAVA의 개발환경(IDE Integereated Development Environment): Eclipse 
-
-
-
-2. 구조 파악
+## 1. JAVA의 개발환경(IDE Integereated Development Environment): Eclipse 
 
 
 
-3. 프로그램언어
+## 2. 구조 파악
+
+
+
+## 3. 프로그램언어
 
 - 변수
   - 기본형(primitive type): 정수, 실수, 논리형(true/false)
@@ -19,7 +19,7 @@
 
 
 
-4. JAVA언어의 특징
+## 4. JAVA언어의 특징
 
 - 이식성이 높음
 - 객체지향: OOP(Object Oriented Program)
