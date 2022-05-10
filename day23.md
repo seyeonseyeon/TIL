@@ -11,7 +11,7 @@
 
 `<!DOCTYPE html>` : 웹 브라우저에서 버전이 HTML5 이라는 것을 알림
 
-`<html>`: 
+`<html>`
 
 `<head>`
 
