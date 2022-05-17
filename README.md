@@ -24,3 +24,23 @@
 ![화면 캡처 2022-05-12 083423](https://user-images.githubusercontent.com/103159709/167964152-eb958043-fade-46d3-9830-5401ddf59e38.png)
 
 > 홈페이지(웹 문서)의 구조를 만들기 위한 프로그램 언어이다.
+
+
+
+
+# 4. JavaScript
+
+![01](https://user-images.githubusercontent.com/103159709/168928201-2f52ef80-f742-42e2-9931-3ff49bf711d5.jpg)
+
+> 객체지향 스크립트 언어로 웹페이지의 동작을 담당하는 언어이다.
+
+
+
+
+# 5. jQuery
+
+![jquery](https://user-images.githubusercontent.com/103159709/168928552-d6673c27-1699-49e8-ac1c-6d73f12e0cbc.png)
+
+> HTML의 클라이언트 사이드 조작을 단순화 하도록 설계된 JavaScript 라이브러리 중 하나이다. 
+
+
