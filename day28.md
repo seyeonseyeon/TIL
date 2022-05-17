@@ -1,4 +1,4 @@
-# DAY28
+# DAY28(JavaScript)
 ## 1. JavaScript Data Type
 
 *JavaScript에서는 모든 변수 선언을 var로 선언한다.*
