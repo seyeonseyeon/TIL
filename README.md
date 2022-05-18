@@ -28,7 +28,16 @@
 
 
 
-# 4. JavaScript
+# 4. CSS
+
+![919826](https://user-images.githubusercontent.com/103159709/168990716-4daa5412-9109-4606-9422-d9482f15b79c.png)
+
+> HTML의 로 작성된 문서믜 표시 방법을 기술하기 위한 스타일 시트 언어이다. 
+
+
+
+
+# 5. JavaScript
 
 ![01](https://user-images.githubusercontent.com/103159709/168928201-2f52ef80-f742-42e2-9931-3ff49bf711d5.jpg)
 
@@ -37,7 +46,7 @@
 
 
 
-# 5. jQuery
+# 6. jQuery
 
 ![jquery](https://user-images.githubusercontent.com/103159709/168928552-d6673c27-1699-49e8-ac1c-6d73f12e0cbc.png)
 
