@@ -1,7 +1,7 @@
 # DAY33
 
 ## 1. 웹 페이지에 지도 표시하기
-* Kakao Maps API 이용
+`* Kakao Maps API 이용`
 
 1. 카카오 개발자사이트 (https://developers.kakao.com) 접속 후 카카오톡 계정으로 로그인 
 2. 애플리케이션 추가( (앱 이름, 사업자명 등록 후 저장)
