@@ -14,7 +14,7 @@
 
 ![GCP_Cloud_SQL_MySQL](https://user-images.githubusercontent.com/103159709/167588656-111cea0c-3d81-4a08-8d79-1b2b85b0464e.png)
 
-> 이 데이터베이스 언어는 주로 관계형 데이터베이스 관리 시스템에서 데이터를 유지 관리하기 위해 설계되었습니다. 데이터 전문가가 구조화 된 데이터 (테이블 형태로 저장된 데이터)를 처리하는 데 사용하는 특수 도구이다. 
+> SQL(Structured Query Language)는 데이터베이스 언어는 주로 관계형 데이터베이스 관리 시스템에서 데이터를 유지 관리하기 위해 설계되었습니다. 데이터 전문가가 구조화 된 데이터 (테이블 형태로 저장된 데이터)를 처리하는 데 사용하는 특수 도구이다. 
 
 
 
@@ -32,7 +32,7 @@
 
 ![919826](https://user-images.githubusercontent.com/103159709/168990716-4daa5412-9109-4606-9422-d9482f15b79c.png)
 
-> HTML의 로 작성된 문서믜 표시 방법을 기술하기 위한 스타일 시트 언어이다. 
+> CSS(Cascading Style Sheets)는 HTML의 로 작성된 문서믜 표시 방법을 기술하기 위한 스타일 시트 언어이다. 
 
 
 
@@ -53,3 +53,10 @@
 > HTML의 클라이언트 사이드 조작을 단순화 하도록 설계된 JavaScript 라이브러리 중 하나이다. 
 
 
+
+
+# 7. AJAX
+
+![330px-AJAX_logo_by_gengns svg](https://user-images.githubusercontent.com/103159709/170140024-a4215fb4-db4b-4c3d-9908-591091ad1616.png)
+
+> AJAX(Asynchronous JavaScript and XML)는 비동기적인 웹 애플리케이션의 제작을 위해 이용하는 웹 개발 기법이다.
