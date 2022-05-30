@@ -9,4 +9,4 @@
 
 ## 2. AOP 사용 방법
 1. XML
-2. Annotation
+2. Annotation(@)
