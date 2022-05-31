@@ -10,3 +10,18 @@
 ## 2. AOP 사용 방법
 1. XML
 2. Annotation(@)
+
+
+
+## 3.정리
+### 1. DI(Dependency Injection)
+1) XML
+2) Annotation
+
+### 2. AOP(Aspect Oriented Programming)
+1) XML
+2) Annotation
+
+### 3. Spring + Mybatis
+
+### 4. Spring MVC --> Springboot
