@@ -4,4 +4,4 @@
 
 
 ## 1.  day032 
-ItemSearchNameTest / ItemGetpriceTest / ItemGetDateTest 만들어서 맞는 값 출력해보기
+* ItemSearchNameTest / ItemGetpriceTest / ItemGetDateTest 만들어서 맞는 값 출력해보기
