@@ -6,14 +6,17 @@
 ## 2. 주의사항
 1. form 과 form 사이에 sumbit을 하면 script사이에 함수가 실행되지 않음
 
-<script>
+
+`<script>
+
 $(document).ready(function(){
-	$('#login_bt').click(function(){
-		$('#login_form').attr({
+
+	$('#login_bt').click(function(){	
+		$('#login_form').attr({		
 			'method':'post',
 			'action':'/loginimpl'
-		});
-		$('#login_form').sumbit();
+		});		
+		$('#login_form').sumbit();		
 	});
 });
-</script>
+</script>`
