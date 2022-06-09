@@ -5,9 +5,7 @@
 
 ## 2. 주의사항
 1. form 과 form 사이에 sumbit을 하면 script사이에 함수가 실행되지 않음
-
-
-`<script>
+```<script>
 
 $(document).ready(function(){
 
@@ -19,4 +17,5 @@ $(document).ready(function(){
 		$('#login_form').sumbit();		
 	});
 });
-</script>`
+
+</script>
