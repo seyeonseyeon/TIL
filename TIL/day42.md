@@ -9,6 +9,6 @@
 
   * 예) 
 
-  public void insert(CateVO cate) throws Exception;
+  public void insert(CateVO cate) throws Exception;  --> public void insert(CateVO obj) throws Exception;
   
-  public void delete(int id) throws Exception;
+  public void delete(int id) throws Exception; --> public void delete(int obj) throws Exception;
