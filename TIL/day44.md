@@ -18,5 +18,6 @@
   
 6. th:text : 내용 변경할 때 사용
   
-   예)  <td th:text="${item.price}">10000</td>    -->   10000 값을 item.price 로 변경한다.
+   예) 
+    `<td th:text="${item.price}">10000</td>    -->   10000 값을 item.price 로 변경`
  
