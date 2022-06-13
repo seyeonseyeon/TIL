@@ -21,3 +21,4 @@
    예) 
     `<td th:text="${item.price}">10000</td>    -->   10000 값을 item.price 로 변경`
  
+7. val(); form의 선택 요소 텍스트 값을 설정, 받아옴
