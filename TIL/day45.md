@@ -5,7 +5,7 @@
 1. 이클립스 spring day 051 / web day 051 수행평가로 제출 
 2. 단원 시험 예정
 
-## 2. 
+## 2. 수업내용
 1. id 값을 서버로 전송하는 방법 (#)
 ```
 $(document).ready(function(){
