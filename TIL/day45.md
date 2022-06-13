@@ -20,6 +20,8 @@ $(document).ready(function(){
 	});
 
 
+
+
 2. class 값을 서버로 전송하는 방법(.)
 ```
 $(document).ready(function(){
@@ -29,20 +31,6 @@ $(document).ready(function(){
 			'enctype': 'multipart/form-data',
 			'method' : 'post',
 		  'action' : 'update'
-		});
-		$('.user').submit();
-	});
-});
-
-
-
-```
-$(document).ready(function(){
-	$('#updatebtn').click(function(){
-		$('.user').attr({
-			'enctype': 'multipart/form-data',
-			'method' : 'post',
-		    'action' : 'update'
 		});
 		$('.user').submit();
 	});
