@@ -1,6 +1,7 @@
 # DAY46
 
-## 1. @ModelAttribute 사용법 (상단의 카테고리가 남아있게 함)
+## 1. 수업내용
+1. @ModelAttribute 사용법 (상단의 카테고리가 남아있게 함)
 
 ```
 @ModelAttribute("catelist")
