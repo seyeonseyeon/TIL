@@ -1,6 +1,6 @@
 # DAY39
 
-## Annotation
+## 1. Annotation
 1. @Autowired: 필드, 생성자, 수정자 메소드에 사용하는 어노테이션으로, 무조건적인 객체에 대한 의존성을 주입
 2. @Repository: DAO의 역할
 
