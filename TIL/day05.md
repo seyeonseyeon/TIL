@@ -6,7 +6,7 @@
 
 1. git init
 2. touch 파일이름
-3. git add. 
+3. git add 파일 이름
 4. git commit -m "업로드 한다."
 5. git log --oneline: 확인
 6. git remote add origin URL: 원격 저장소 연결
@@ -17,6 +17,6 @@
 
 1. git clone URL
 2. git pull origin master
-3. git add.
+3. git add 파일 이름
 4. git commit - m "업로드 한다."
 5. git push origin master
