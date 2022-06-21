@@ -8,9 +8,9 @@
  
  
 ## 2. 수업 내용
-* mybatis Logger
+* mybatis Logger 하는 방법
 
-  * 하는 방법
+
 1. maven library 추가
 ```
 <!-- log4j2 -->   
@@ -47,3 +47,6 @@
 
 </configuration>
 ```
+
+* mybatis Logger 결과
+
