@@ -11,7 +11,7 @@
 * mybatis Logger
 
   * 하는 방법
-  1. maven library 추가
+1. maven library 추가
 ```
 <!-- log4j2 -->   
 <dependency>
