@@ -1,6 +1,6 @@
 # DAY52
 
-## 1. Semi Project(Day3)
+## 1. Semi Project(Day 3)
 * 오늘 할 일
 * ~~회원가입 완성~~
 * ~~회원가입 상세 화면 완성~~
