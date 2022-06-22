@@ -28,6 +28,3 @@
 * before(): 특정 element의 위에 HTML추가
 * remove(): 선택한 element의 영역을 삭제. 영역까지 사라짐
 * empty(): 선택한 element의 내부 정보만 삭제. 영역은 유지
-
-#### 5.  jQuery Traversing Filtering
-* 
