@@ -1,7 +1,7 @@
 # DAY41
 
 1. HttpSession: 세션은 일정 시간동안 같은 클라이언트(브라우저)에서 들어오는 일련의 요구를 하나의 상태로 보고, 그 상태를 유지하는                   기술이며, 사용자가 웹서버에 접속한 후 브라우저를 종료할 때까지 세션 유지.
-2. invalidate: 세션의 값들을 모구 사라지도록 하기 위해 사용
+2. invalidate: 세션의 값들을 모두 사라지도록 하기 위해 사용
 3. addAttribute(String name, Object value): value 객체를 name이름으로 추가
 4. setAttribute: 선택한 요소의 속성 값을 정함
 
