@@ -8,3 +8,9 @@
   * Naver AI Platform
 * SAAS(Software as a Service, 서비스로서의 소프트웨어): 소프트웨어 서비스
 
+2. 서버 접속하는데 필요한 것
+* pem 인증키(한 사람당 한개만)
+* 공인 ip 주소
+* 외부 포트
+
+3. 서버 관리 및 설정 변경: 가이드 참조
