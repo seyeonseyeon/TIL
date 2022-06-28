@@ -6,4 +6,4 @@
 * IAAS: Linux OS(CentOS7), JDK, Mysql, Web Server(TOMCAT)
 * PAAS: 플랫폼 서비스
   * Naver AI Platform
-* SAAS
+* SAAS: 소프트웨어 서비스
