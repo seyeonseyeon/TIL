@@ -7,3 +7,4 @@
 * PAAS: 플랫폼 서비스
   * Naver AI Platform
 * SAAS: 소프트웨어 서비스
+
