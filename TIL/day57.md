@@ -47,12 +47,14 @@
 7. shutdown: 시스템 종료
 
 ##### 5. 주의사항
- 1. Putty 창에서 sql문 쓸 때 테이블명만 대소문자 구분(workbench에서 CREATE TABLE cust ();로 썼다가 cust로 통일)
+ 1. Putty 창에서 sql문 쓸 때 테이블명만 대소문자 구분(workbench에서 CREATE TABLE cust ();로 썼으면 cust로 통일)
 
 ##### 6. 참고
 1. '%': 모든 서버에 접속할 수 있다는 의미
+
 ![ww](https://user-images.githubusercontent.com/103159709/176360543-4a63529a-4963-463e-8a05-0f3f3308ce5c.png)
 
 
 2. 초록색이 실행 중인 파일임을 의미
+
 ![리눅스](https://user-images.githubusercontent.com/103159709/176360986-5bb97439-e0bc-49d2-8792-019db8e9a2b4.png)
