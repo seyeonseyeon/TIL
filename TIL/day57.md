@@ -32,4 +32,4 @@
 7. shutdown: 시스템 종료
 
 ##### 4. 주의사항
- 1. Putty 창에서 sql문 쓸 때 테이블명만 대소문자 구분
+ 1. Putty 창에서 sql문 쓸 때 테이블명만 대소문자 구분(workbench에서 CREATE TABLE cust ();로 썼다가 cust로 통일)
