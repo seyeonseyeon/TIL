@@ -23,15 +23,21 @@
 * [root@multi14 jsy webapps] # ls
 
 ##### 3. 사용자 생성 및 데이터베이스 생성
-[root@multi14 jsy bin] # mysql -u root -p
-비밀번호 입력
-mysql> use mysql;
-mysql> select host, user from user;
-mysql> CREATE DATABASE DB이름(shopdb) default character set utf8;
-mysql> GRANT ALL PRIVILEGES ON DB이름(shopdb).* to '아이디(admin1)'@'%';  -- 해당 DB에 대한 권한 부여
-mysql> flush privileges;  -- 새로고침
+1.[root@multi14 jsy bin] # mysql -u root -p
 
-##### 3. linux 명령어
+2. 비밀번호 입력
+
+3. mysql> use mysql;
+
+4. mysql> select host, user from user;
+
+5. mysql> CREATE DATABASE DB이름(shopdb) default character set utf8;
+
+6. mysql> GRANT ALL PRIVILEGES ON DB이름(shopdb).* to '아이디(admin1)'@'%';  -- 해당 DB에 대한 권한 부여
+
+7. mysql> flush privileges;  -- 새로고침
+
+##### 4. linux 명령어
 1. pwd(print working directory): 현재 작업중인 디렉토리 정보 출력
 2. cd(change directory): 경로 이동
 3. ls(list segments): 디렉토리 목록 확인
@@ -40,5 +46,5 @@ mysql> flush privileges;  -- 새로고침
 6. rm(remove): 파일이나 디렉토리 삭제 / 디렉토리를 삭제할 때에는 하위 디렉토리까지 모두 삭제되므로 주의!! 다시 복구 안됨!!
 7. shutdown: 시스템 종료
 
-##### 4. 주의사항
+##### 5. 주의사항
  1. Putty 창에서 sql문 쓸 때 테이블명만 대소문자 구분(workbench에서 CREATE TABLE cust ();로 썼다가 cust로 통일)
