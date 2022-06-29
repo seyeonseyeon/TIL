@@ -22,6 +22,15 @@
 * [root@multi14 jsy webapps] # cp /root/day05.war .
 * [root@multi14 jsy webapps] # ls
 
+##### 3. 사용자 생성 및 데이터베이스 생성
+[root@multi14 jsy bin] # mysql -u root -p
+비밀번호 입력
+mysql> use mysql;
+mysql> select host, user from user;
+mysql> CREATE DATABASE DB이름(shopdb) default character set utf8;
+mysql> GRANT ALL PRIVILEGES ON DB이름(shopdb).* to '아이디(admin1)'@'%';  -- 해당 DB에 대한 권한 부여
+mysql> flush privileges;  -- 새로고침
+
 ##### 3. linux 명령어
 1. pwd(print working directory): 현재 작업중인 디렉토리 정보 출력
 2. cd(change directory): 경로 이동
