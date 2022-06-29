@@ -3,6 +3,9 @@
 ## 1. 수업 내용
 
 1. NCP(Naver Cloud Platform)
+
+CLOUD 환경 안에서 
+
 * IAAS(Infrastructure as a Service, 서비스로서의 인프라스트럭처): Linux OS(CentOS7), JDK, Mysql, Web Server(TOMCAT)
 * PAAS(Platform as a Service, 서비스로서의 플랫폼): 플랫폼 서비스
   * Naver AI Platform
