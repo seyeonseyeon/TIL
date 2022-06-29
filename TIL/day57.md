@@ -23,7 +23,7 @@
 * [root@multi14 jsy webapps] # ls
 
 ##### 3. 사용자 생성 및 데이터베이스 생성
-1.[root@multi14 jsy bin] # mysql -u root -p
+1. [root@multi14 jsy bin] # mysql -u root -p
 
 2. 비밀번호 입력
 
