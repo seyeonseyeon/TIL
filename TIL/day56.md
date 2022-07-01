@@ -2,7 +2,7 @@
 
 ## 1. 수업 내용
 
-1. NCP(Naver Cloud Platform)
+1. NCP(Naver Cloud Platform)  https://terms.naver.com/entry.naver?docId=3580686&cid=59088&categoryId=59096
 
 `CLOUD 환경 안에서` 
 
