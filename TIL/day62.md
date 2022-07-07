@@ -11,4 +11,4 @@
 * eval: String 값을 Javascript로 변경
 ---
  ##### 오늘 할 일
- 1. ~~ERD 구성~~
+ * ~~ERD 구성~~
