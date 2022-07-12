@@ -6,4 +6,4 @@
 
 2. CLOVA CHATBOT: 대화형 AI 서비스로 최적의 대화 모델을 설계해 사람의 말을 잘 이해하고 똑똑하게 답변가능한 챗봇 엔진
 
-![화면 캡처 2022-07-12 094359](https://user-images.githubusercontent.com/103159709/178383991-7d2eab03-e510-47e8-b1fc-7c7bb4f99b7f.png)
+   ![화면 캡처 2022-07-12 094359](https://user-images.githubusercontent.com/103159709/178383991-7d2eab03-e510-47e8-b1fc-7c7bb4f99b7f.png)
