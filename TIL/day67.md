@@ -12,5 +12,6 @@
  
  
  
+    * 문제점 발생: access token
 ![error](https://user-images.githubusercontent.com/103159709/178683175-eb3afb1b-0e1f-483a-bd0a-774beb16a4bf.png)
 
