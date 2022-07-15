@@ -10,5 +10,5 @@
 
 
 
-* kakao: 인가 코드 받기
+* ~~kakao: 인가 코드 받기~~
 ![kakao](https://user-images.githubusercontent.com/103159709/179185103-7e2e0d32-ec45-4849-9786-297b1bd47b98.png)
