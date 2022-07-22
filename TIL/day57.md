@@ -12,17 +12,23 @@
 
 ##### 2. 파일 전송 방법
 1. eclipse에서 project 우클릭해서 export - war file- destination(새로운 만든 폴더)
-2. cmd 입력 후 프로프트 창 이동
+2. 새로 만든 폴더에서 cmd 입력 후 프로프트 창 이동
 
 ![화면 캡처 2022-07-22 164540](https://user-images.githubusercontent.com/103159709/180390145-c9845f3f-e732-439c-a16d-dee352bc450c.png)
 
 
 3. 명령 프롬프트에서 
 * dir
-* scp -P 내 포트 번호 파일 이름 root@공인IP:/root
+* scp -P 6003(내 포트 번호) day05.war(내 파일 이름) root@내 공인IP:/root
 * 비밀번호 입력
 
-3. putty창에서  
+
+
+![화면 캡처 2022-07-22 165057](https://user-images.githubusercontent.com/103159709/180391128-981ff9e8-eebc-4a91-8dda-3b418302b675.png)
+
+
+
+4. putty창에서  
 * [root@multi14 jsy webapps] # cp /root/day05.war .
 * [root@multi14 jsy webapps] # ls
 * [root@multi14 jsy webapps] # mv day05.war ROOT.war
