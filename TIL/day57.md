@@ -11,7 +11,7 @@
 * systemctl status mysqld: 서비스 구동 여부 확인
 
 ##### 2. 파일 전송 방법
-1. eclipse에서 project export
+1. eclipse에서 project 우클릭해서 export - war file- destination(새로운 만든 폴더)
 
 2. 명령 프롬프트에서 
 * dir
@@ -20,6 +20,15 @@
 
 3. putty창에서  
 * [root@multi14 jsy webapps] # cp /root/day05.war .
+* [root@multi14 jsy webapps] # ls
+* [root@multi14 jsy webapps] # mv day05.war ROOT.war
+* [root@multi14 jsy webapps] # ls
+* [root@multi14 jsy webapps] # mv ROOT ROOT_back
+* [root@multi14 jsy webapps] # cd ..
+* [root@multi14 jsy apache-tomcat-8.5.27] # cd bin
+* [root@multi14 jsy bin] # ./startup:sh
+* [root@multi14 jsy bin] # cd ..
+* [root@multi14 jsy apache-tomcat-8.5.27] # cd webapps/
 * [root@multi14 jsy webapps] # ls
 
 ##### 3. 사용자 생성 및 데이터베이스 생성
