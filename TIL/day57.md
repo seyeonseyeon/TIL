@@ -12,10 +12,12 @@
 
 ##### 2. 파일 전송 방법
 1. eclipse에서 project 우클릭해서 export - war file- destination(새로운 만든 폴더)
+2. ![화면 캡처 2022-07-22 164540](https://user-images.githubusercontent.com/103159709/180390145-c9845f3f-e732-439c-a16d-dee352bc450c.png) cmd 입력 후 프로프트 창 이동
 
-2. 명령 프롬프트에서 
+
+3. 명령 프롬프트에서 
 * dir
-* scp -P 6003(내 포트 번호) day05(파일 이름) root@27.96.129.120(공인 IP):/root
+* scp -P 내 포트 번호 파일 이름 root@공인IP:/root
 * 비밀번호 입력
 
 3. putty창에서  
