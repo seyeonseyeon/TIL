@@ -16,7 +16,7 @@
 회원정보 수정 전 화면)
 ![로그아웃](https://user-images.githubusercontent.com/103159709/181448951-745aa57a-b41f-4016-9419-3c3402299b7e.png)
 
-회원정보 수정 후 화면)
+회원정보 수정 후 화면) : 상단에 이름 변경
 ![로그인](https://user-images.githubusercontent.com/103159709/181449034-8bb4b317-082d-4b6a-b64a-5f0329fe08c2.png)
 
 
