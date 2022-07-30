@@ -1,4 +1,4 @@
-# DAY54
+# DAY54g
 
 ## 1. Semi Project(DAY5)
 
