@@ -2,7 +2,7 @@
 
 ##### 오늘 할 일
 * 마이 페이지 구현
-  * ~~사용 가능 여부 true, false 값 이름 바꾸기~~
+  * 사용 가능 여부 true, false 값 이름 바꾸기
     * if문 사용
   
  ![before](https://user-images.githubusercontent.com/103159709/182739401-f926e118-0bec-4e21-8ee0-31bea22a8c2c.png)
