@@ -13,7 +13,7 @@
 * hide(): 해당 element를 없어지게 함. 해당 영역도 사라짐
 * show(): 해당 element를 다시 나타나게 함
 * fadeIn(): 해당 element를 서서히 없어지게 함. 해당 영역도 사라짐
-* fadeOut(): 해당 element를 서서히 다시 나ㅏ나게 함
+* fadeOut(): 해당 element를 서서히 다시 나타나게 함
 
 #### 3. jQuery HTML Get/Set Content and Attributes
 * text(): 해당 element의 content를 스트링으로 받아옴
