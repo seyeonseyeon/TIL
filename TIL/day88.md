@@ -6,3 +6,4 @@
 
 
 ![화면 캡처 2022-08-09 110111](https://user-images.githubusercontent.com/103159709/183547515-9e5d9df4-9893-4b03-bec7-3b422c542b27.png)
+(탈퇴:0 / 회원:1)
