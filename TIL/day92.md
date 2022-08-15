@@ -19,12 +19,12 @@
 #### 로그인 성공 전 메인 화면
  ![메인](https://user-images.githubusercontent.com/103159709/184587001-baaed115-59d8-4e4e-8124-9526465136d4.png)
 
-#### 로그인 성공 시 메인 화면 
- ![로그인 시 메인](https://user-images.githubusercontent.com/103159709/184587306-a4b96cc2-fa53-469d-b7b4-a25f4fd4b4df.png)
- 
 #### 로그인 실패 시 화면 
+* 데이터베이스에 저장된 아이디와 비밀번호 값과 일치하면 로그인 성공 / 일치하지 않을 시 하단에 '아이디 또는 비밀번호를 잘못 입력했습니다. 입력하신 내용을 다시 확인해주세요.' 메세지 띄우기
 ![로그인 실패](https://user-images.githubusercontent.com/103159709/184592866-08a3b2cd-30a8-42ad-a89e-fe404d2816f2.png)
 
+#### 로그인 성공 시 메인 화면 
+ ![로그인 시 메인](https://user-images.githubusercontent.com/103159709/184587306-a4b96cc2-fa53-469d-b7b4-a25f4fd4b4df.png)
 
 ## 3. 마이페이지
 
