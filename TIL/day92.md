@@ -33,6 +33,18 @@
 
 ![마이페이지](https://user-images.githubusercontent.com/103159709/184587770-8cf97d89-0dd1-4ff6-89f6-ad2fc66b738b.png)
 
+#### 포인트 내역
+* 사용 가능한 포인트 정보 띄우기
+![포인트 내역](https://user-images.githubusercontent.com/103159709/184595968-e627815a-412c-48db-b3a5-d48bd0528aec.png)
+
+#### 쿠폰 내역
+* 발급 받은 쿠폰 정보 띄우기(사용한 쿠폰일시 사용한 날짜 표시)
+![쿠폰 내역](https://user-images.githubusercontent.com/103159709/184596083-4617f312-9d24-414b-b6d3-09a962682b7f.png)
+
+#### 예매 내역
+* 예매 내역에 따른 정보 띄우기
+![화면 캡처 2022-08-15 164120](https://user-images.githubusercontent.com/103159709/184596605-065fa7eb-465e-428c-9793-e7f4a037ecd8.png)
+
 
 #### 회원탈퇴
 * 비밀번호 입력 안하고 탈퇴 버튼 누를 시 '비밀번호를 다시 확인해주세요' 메세지 띄우기
