@@ -56,6 +56,7 @@
 ![회원정보 수정](https://user-images.githubusercontent.com/103159709/184601776-d6288dcd-0354-4bb5-94aa-8b1d754e29c5.png)
 
 * 수정 완료 시 확인창 띄우기
+
 ![회원정보 수정 완료](https://user-images.githubusercontent.com/103159709/184603639-24e37648-b21a-49ba-9a12-ee0ee9e75aab.png)
 
 #### 회원탈퇴
