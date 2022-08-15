@@ -38,7 +38,7 @@
 ![포인트 내역](https://user-images.githubusercontent.com/103159709/184595968-e627815a-412c-48db-b3a5-d48bd0528aec.png)
 
 #### 쿠폰 내역
-* 발급 받은 쿠폰 정보 띄우기(사용한 쿠폰일시 사용한 날짜 표시)
+* 발급 받은 쿠폰 정보 띄우기(사용한 쿠폰일 경우 사용한 날짜 표시)
 ![쿠폰 내역](https://user-images.githubusercontent.com/103159709/184596083-4617f312-9d24-414b-b6d3-09a962682b7f.png)
 
 #### 예매 내역
