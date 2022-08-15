@@ -21,6 +21,10 @@
 
 #### 로그인 성공 시 메인 화면 
  ![로그인 시 메인](https://user-images.githubusercontent.com/103159709/184587306-a4b96cc2-fa53-469d-b7b4-a25f4fd4b4df.png)
+ 
+#### 로그인 실패 시 화면 
+![로그인 실패](https://user-images.githubusercontent.com/103159709/184592866-08a3b2cd-30a8-42ad-a89e-fe404d2816f2.png)
+
 
 ## 3. 마이페이지
 
