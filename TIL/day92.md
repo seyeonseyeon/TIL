@@ -63,6 +63,9 @@
 * 비밀번호 입력 안하고 탈퇴 버튼 누를 시 '비밀번호를 다시 확인해주세요' 메세지 띄우기
 ![회원탈퇴](https://user-images.githubusercontent.com/103159709/184588051-364001e8-ad64-4b91-9625-012369aa7c5d.png)
 
+* 현재 사용중인 비밀번호와 일치하지 않을 시 회원탈퇴 불가 / 오류 메세지 띄우기
+![회원탈퇴 실패](https://user-images.githubusercontent.com/103159709/184606049-c357f2f1-57c4-4ce1-87ec-8242f6640e36.png)
+
 * 회원탈퇴 성공 시 'used'필드 값 변경(완전 삭제 ×/ 0: 탈퇴한 계정, 1: 사용 중인 계정) 
 ![회원탈퇴2](https://user-images.githubusercontent.com/103159709/184588283-c7794aaf-8c7e-4fde-a7ba-b9c5cd2fda95.png)
 
