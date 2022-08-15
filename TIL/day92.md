@@ -52,6 +52,9 @@
 ![제목 누루면 티겟 정보](https://user-images.githubusercontent.com/103159709/184601356-d75746c2-6539-4a90-8299-e07aa5c8029c.png)
 
 #### 회원탈퇴
+* 회원정보 수정(아이디는 readonly로 수정 불가 / 이름만 변경 가능)
+![회원정보 수정](https://user-images.githubusercontent.com/103159709/184601776-d6288dcd-0354-4bb5-94aa-8b1d754e29c5.png)
+
 * 비밀번호 입력 안하고 탈퇴 버튼 누를 시 '비밀번호를 다시 확인해주세요' 메세지 띄우기
 ![회원탈퇴](https://user-images.githubusercontent.com/103159709/184588051-364001e8-ad64-4b91-9625-012369aa7c5d.png)
 
