@@ -45,13 +45,16 @@
 * 예매 내역에 따른 정보 띄우기
 ![화면 캡처 2022-08-15 164120](https://user-images.githubusercontent.com/103159709/184596605-065fa7eb-465e-428c-9793-e7f4a037ecd8.png)
 
+* 마이페이지에서 예매번호 누르면 예매 정보 화면으로 넘어감
+![예매 정보](https://user-images.githubusercontent.com/103159709/184600810-59bbd238-0341-4345-bd61-9738070a071b.png)
+
+* 마이페이지에서 영화제목(ex싸이코) 누르면 티켓이 나옴
+![제목 누루면 티겟 정보](https://user-images.githubusercontent.com/103159709/184600950-b24dcf89-2d3f-4b7a-821a-87c277ae9e9f.png)
 
 #### 회원탈퇴
 * 비밀번호 입력 안하고 탈퇴 버튼 누를 시 '비밀번호를 다시 확인해주세요' 메세지 띄우기
 ![회원탈퇴](https://user-images.githubusercontent.com/103159709/184588051-364001e8-ad64-4b91-9625-012369aa7c5d.png)
 
-
 * 회원탈퇴 성공 시 'used'필드 값 변경(완전 삭제 ×/ 0: 탈퇴한 계정, 1: 사용 중인 계정) 
-
 ![회원탈퇴2](https://user-images.githubusercontent.com/103159709/184588283-c7794aaf-8c7e-4fde-a7ba-b9c5cd2fda95.png)
 
