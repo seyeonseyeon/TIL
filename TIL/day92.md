@@ -49,7 +49,7 @@
 ![예매 정보](https://user-images.githubusercontent.com/103159709/184600810-59bbd238-0341-4345-bd61-9738070a071b.png)
 
 * 마이페이지에서 영화제목(ex싸이코) 누르면 티켓이 나옴
-![제목 누루면 티겟 정보](https://user-images.githubusercontent.com/103159709/184600950-b24dcf89-2d3f-4b7a-821a-87c277ae9e9f.png)
+![제목 누루면 티겟 정보](https://user-images.githubusercontent.com/103159709/184601356-d75746c2-6539-4a90-8299-e07aa5c8029c.png)
 
 #### 회원탈퇴
 * 비밀번호 입력 안하고 탈퇴 버튼 누를 시 '비밀번호를 다시 확인해주세요' 메세지 띄우기
