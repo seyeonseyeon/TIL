@@ -58,6 +58,16 @@
 * 수정 완료 시 확인창 띄우기
 ![회원정보 수정 완료](https://user-images.githubusercontent.com/103159709/184603639-24e37648-b21a-49ba-9a12-ee0ee9e75aab.png)
 
+#### 비밀번호 변경
+* 빈칸이 있을 시 submit불가
+![비밀번호 빈칸](https://user-images.githubusercontent.com/103159709/184757308-9b5dca19-4b83-41d6-b3db-92fe5c322e2b.png)
+
+* 현재 사용중인 비밀번호와 같은 비밀번호로 바꿀 시 '사용불가: 비밀번호 재작성이 필요합니다.' 메세지 띄우기
+![비밀번호 변경 오류](https://user-images.githubusercontent.com/103159709/184757134-746fbf45-6c71-4426-8e20-3d8c70e046ea.png)
+
+* 새 비밀번호와 새 비밀번호 확인이 불일치 시 alert창 띄우기
+![비밀번호 불일치](https://user-images.githubusercontent.com/103159709/184757465-499668ef-deb9-4f82-aa23-6bb433971f93.png)
+
 #### 회원탈퇴
 * 비밀번호 입력 안하고 탈퇴 버튼 누를 시 '비밀번호를 다시 확인해주세요' 메세지 띄우기
 ![회원탈퇴](https://user-images.githubusercontent.com/103159709/184588051-364001e8-ad64-4b91-9625-012369aa7c5d.png)
