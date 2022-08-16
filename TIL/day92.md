@@ -15,6 +15,7 @@
  ![화면 캡처 2022-08-15 151235](https://user-images.githubusercontent.com/103159709/184589362-0eacb31c-ea22-45c7-b38c-cb2f8c03ad15.png)
 
 * 어느 한 조건이라도 미충족 시 회원가입 불가
+
 ![회원가입 실패](https://user-images.githubusercontent.com/103159709/184760219-bd68774e-0b20-482f-8555-91dcf2e6568c.png)
 ![회원가입 실패 알림](https://user-images.githubusercontent.com/103159709/184760297-f6981d67-44bb-4f9f-88c2-919dcfcd3897.png)
 
