@@ -68,6 +68,7 @@
 ![비밀번호 변경 오류](https://user-images.githubusercontent.com/103159709/184757134-746fbf45-6c71-4426-8e20-3d8c70e046ea.png)
 
 * 새 비밀번호와 새 비밀번호 확인이 불일치 시 alert창 띄우기
+
 ![비밀번호 불일치](https://user-images.githubusercontent.com/103159709/184757465-499668ef-deb9-4f82-aa23-6bb433971f93.png)
 
 #### 회원탈퇴
