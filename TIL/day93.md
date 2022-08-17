@@ -1,4 +1,7 @@
 # DAY93
+##### 오늘 할 일
+* 리드미 작성 완성
+
 
 # 티켓사조
 ![바탕화면](https://user-images.githubusercontent.com/103159709/184810334-a816ed71-3eb4-4f15-bc84-ca7898fe1de0.png)
