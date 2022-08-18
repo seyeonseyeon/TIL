@@ -11,7 +11,7 @@
 
 # 2. SQL
 
-<img src = https://user-images.githubusercontent.com/103159709/185337586-5727b413-07f8-47a6-a614-0405d3a863a0.png width=250px>
+<img src = https://user-images.githubusercontent.com/103159709/185340508-50b3b87c-44e2-4c51-a2fc-b13ff6c35138.png width=200px>
 
 > SQL(Structured Query Language)는 데이터베이스 언어는 주로 관계형 데이터베이스 관리 시스템에서 데이터를 유지 관리하기 위해 설계되었습니다. 데이터 전문가가 구조화 된 데이터 (테이블 형태로 저장된 데이터)를 처리하는 데 사용하는 특수 도구이다. 
 
