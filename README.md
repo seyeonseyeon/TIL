@@ -29,7 +29,7 @@
 
 
 # 4. CSS
-<img src= https://user-images.githubusercontent.com/103159709/185338011-95446148-83d2-4b82-a3d0-1405e548e166.png align="center" width=150px>
+<img src= https://user-images.githubusercontent.com/103159709/185338011-95446148-83d2-4b82-a3d0-1405e548e166.png align="center" width=100px>
 
 > CSS(Cascading Style Sheets)는 HTML의 로 작성된 문서믜 표시 방법을 기술하기 위한 스타일 시트 언어이다. 
 
@@ -38,7 +38,7 @@
 
 # 5. JavaScript
 
-<img src= https://user-images.githubusercontent.com/103159709/185337903-701bff64-cfdc-44ec-9929-0a60942dceeb.png align="center" width=150px>
+<img src= https://user-images.githubusercontent.com/103159709/185337903-701bff64-cfdc-44ec-9929-0a60942dceeb.png align="center" width=100px>
 
 > 객체지향 스크립트 언어로 웹페이지의 동작을 담당하는 언어이다.
 
