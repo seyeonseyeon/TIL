@@ -21,7 +21,7 @@
 
 # 3. HTML5
 
-<img src = https://user-images.githubusercontent.com/103159709/185337868-911e21b9-5657-4d16-a257-0f6b52d3a661.png align="center">
+<img src = https://user-images.githubusercontent.com/103159709/185337868-911e21b9-5657-4d16-a257-0f6b52d3a661.png>
 
 > 홈페이지(웹 문서)의 구조를 만들기 위한 프로그램 언어이다.
 
