@@ -46,7 +46,7 @@
 
 # 6. jQuery
 
-<img src= https://user-images.githubusercontent.com/103159709/185337893-55907e7d-c419-4cc3-93f3-e02ea001a0fd.png width=150px>
+<img src= https://user-images.githubusercontent.com/103159709/185340998-f5a6d20d-dd8a-4298-ac48-2d275b67a073.png width=150px>
 
 > HTML의 클라이언트 사이드 조작을 단순화 하도록 설계된 JavaScript 라이브러리 중 하나이다. 
 
